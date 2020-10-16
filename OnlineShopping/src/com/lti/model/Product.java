@@ -16,6 +16,7 @@ public class Product {
 	public int getprice() {
 		return price;
 	}
+
 	public int getProductId() {
 		return productId;
 	}
